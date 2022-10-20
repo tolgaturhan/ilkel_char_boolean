@@ -10,5 +10,11 @@ public class Main {
         System.out.println(vChar);
         System.out.println(vChar2);
         System.out.println("" + c1 + c2 + c3 + c4);
+
+        boolean dogru = true;
+        boolean yanlis = false;
+
+        System.out.println(dogru);
+        System.out.println(yanlis);
     }
 }
